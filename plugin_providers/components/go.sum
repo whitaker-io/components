@@ -60,6 +60,7 @@ github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymF
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.4/go.mod h1:6rpuAdCZL397s3pYoYcLgu1mIlRU8Am5FuJP05cCM98=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
+github.com/fasthttp/websocket v0.0.0-20200320073529-1554a54587ab/go.mod h1:smsv/h4PBEBaU0XDTY5UwJTpZv69fQ0FfcLJr21mA6Y=
 github.com/fasthttp/websocket v1.4.2/go.mod h1:smsv/h4PBEBaU0XDTY5UwJTpZv69fQ0FfcLJr21mA6Y=
 github.com/fasthttp/websocket v1.4.3 h1:qjhRJ/rTy4KB8oBxljEC00SDt6HUY9jLRfM601SUdS4=
 github.com/fasthttp/websocket v1.4.3/go.mod h1:5r4oKssgS7W6Zn6mPWap3NWzNPJNzUUh3baWTOhcYQk=
@@ -72,12 +73,15 @@ github.com/gofiber/fiber/v2 v2.2.0 h1:U9IkTlomVnR+Q5aBhgC0R6ePTiwTnNLXWQR+h+oYUN
 github.com/gofiber/fiber/v2 v2.2.0/go.mod h1:Slpou87elSO9qom9nwIo/IoQJ2qfRuMAQ/qQ9F0o4b0=
 github.com/gofiber/fiber/v2 v2.8.0 h1:BdWvZmg/WY/Vjtjm38aXOp1Lks1BhuyS2b7lSWSPAzk=
 github.com/gofiber/fiber/v2 v2.8.0/go.mod h1:Ah3IJikrKNRepl/HuVawppS25X7FWohwfCSRn7kJG28=
+github.com/gofiber/fiber/v2 v2.14.0/go.mod h1:oZTLWqYnqpMMuF922SjGbsYZsdpE1MCfh416HNdweIM=
 github.com/gofiber/fiber/v2 v2.15.0 h1:yd+o1t6/hjkmjZxz4FJlgHAKBIu1w1PnRL3VB67KMHM=
 github.com/gofiber/fiber/v2 v2.15.0/go.mod h1:iftruuHGkRYGEXVISmdD7HTYWyfS2Bh+Dkfq4n/1Owg=
 github.com/gofiber/websocket/v2 v2.0.2 h1:UA/6NpyG+vmPGlvJvW8MJPJpRFuS7abinZ5HbLuV8u0=
 github.com/gofiber/websocket/v2 v2.0.2/go.mod h1:7VBnzEVRK0K0eTIVc5GbXPF1JWUFnllY0X4cRtG2v78=
 github.com/gofiber/websocket/v2 v2.0.3 h1:nqPGHB4LQhxKX5KJUjayOd2xiiENieS/dn6TPfCL8uk=
 github.com/gofiber/websocket/v2 v2.0.3/go.mod h1:/OTEImCxORKE5unw0dWqJYovid6vZF+wB1W0aaMKs2M=
+github.com/gofiber/websocket/v2 v2.0.7 h1:ZRUMTzc2VQkSMWBMF52YthWbAd9gD7LfzHCV7T1PThE=
+github.com/gofiber/websocket/v2 v2.0.7/go.mod h1:Ts9Bxcbz6BK1dap3flpT9Y0KHKTOh5sBDoDAB9+PzM0=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
 github.com/golang/groupcache v0.0.0-20191227052852-215e87163ea7/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
@@ -237,6 +241,8 @@ github.com/whitaker-io/components/forks/logical v0.16.0 h1:XS/68WqLkqoGr7zpu2tc/
 github.com/whitaker-io/components/forks/logical v0.16.0/go.mod h1:OaOuBKAukjg1VDzzpaPZjiYHZrIgq6ZvNBGwMAjdktc=
 github.com/whitaker-io/components/forks/logical v0.16.1 h1:ZQlblwcf9N94YtxSZfwxM50JyQLilEV5z1dBFbixMqc=
 github.com/whitaker-io/components/forks/logical v0.16.1/go.mod h1:ghVu2iz5Szli4xb4LwOWIulUZ/+e/dBSxiDzuDUksn0=
+github.com/whitaker-io/components/forks/logical v0.16.2 h1:ty+D3DEQKpjjafw90cNrB5bpxob352Hd48eABVN6LZ0=
+github.com/whitaker-io/components/forks/logical v0.16.2/go.mod h1:fpZuW/unGOQkyEbeKhRwNviBe9ZOdFJTXnHC+6ySYvM=
 github.com/whitaker-io/components/publishers/kafka v0.13.10 h1:1hFrbQUCgA7VVoV4LnZ8OTyzCoEk96ivI2+dyzyQowc=
 github.com/whitaker-io/components/publishers/kafka v0.13.10/go.mod h1:jUNEn11oBcfMRKa7Y2zCcQiKiKKabp6aNZfiakUo06Q=
 github.com/whitaker-io/components/publishers/kafka v0.13.11 h1:n5syuVl1SFKTcenvTcEfZvqglzlDlvSAbMtuGWK05Zw=
@@ -265,6 +271,8 @@ github.com/whitaker-io/components/publishers/kafka v0.16.0 h1:IT7ipBhyj4wsApcdem
 github.com/whitaker-io/components/publishers/kafka v0.16.0/go.mod h1:ZNtG4IxI1CJ04SVq6Q9KP9D4Pxo3eVqMNzqvxCSSLDQ=
 github.com/whitaker-io/components/publishers/kafka v0.16.1 h1:XutQH3xH/XUJZrAeUWijDN2pKgbUma60airF/aMV1gE=
 github.com/whitaker-io/components/publishers/kafka v0.16.1/go.mod h1:LiaRT3extaZOTQVhHMmRnx2YtCJ/9nI4pkp9vSLHVHg=
+github.com/whitaker-io/components/publishers/kafka v0.16.2 h1:8HkUFs575DHsbFig9GKGqK2kPcF3csYiWO6TnYTlckQ=
+github.com/whitaker-io/components/publishers/kafka v0.16.2/go.mod h1:2xJ0z18o1UscB/HVEsw2OPaA5b+BWbWt/rbqPp21btA=
 github.com/whitaker-io/components/publishers/pubsub v0.13.10 h1:GGtv1oVkGSA4sB3PO1De8oHBY0POTsk0wEFDOZjAECA=
 github.com/whitaker-io/components/publishers/pubsub v0.13.10/go.mod h1:dfksTBKyg9s4Hj3kacLdE1ROLC0WWndkwUefGOVTy3s=
 github.com/whitaker-io/components/publishers/pubsub v0.13.11 h1:5bvmcJMuzwKTKxIlU3uqFVu1WOi8zdXmwcEfWX0Wpf8=
@@ -293,6 +301,8 @@ github.com/whitaker-io/components/publishers/pubsub v0.16.0 h1:RfoOi+zoWiuETYCAa
 github.com/whitaker-io/components/publishers/pubsub v0.16.0/go.mod h1:6NPHtIxkVYeMMKfgkCT7fmNhh0obDgYwguXyLwcBu1E=
 github.com/whitaker-io/components/publishers/pubsub v0.16.1 h1:Bbdv76efUUUlr0ruU/oG/W8LVdfv3/64svgDnNK3YsE=
 github.com/whitaker-io/components/publishers/pubsub v0.16.1/go.mod h1:8hMFkwhXzbmA9IlOtxh1yEvJ3hF6HMZhRqAPOATvGdY=
+github.com/whitaker-io/components/publishers/pubsub v0.16.2 h1:ofKz/c1aNELn8HIB5Tzh9IOrFxhtr/9ADirI/Y0h454=
+github.com/whitaker-io/components/publishers/pubsub v0.16.2/go.mod h1:PiICdOt8yvzW+vkvNu3hDRbWT4LEgNEMo/uAmpjv0/8=
 github.com/whitaker-io/components/publishers/sqs v0.13.10 h1:ygHZnslVBUe8HJkpuew2/2EfSZCmG/MfW9/kwqss5Zo=
 github.com/whitaker-io/components/publishers/sqs v0.13.10/go.mod h1:Q/IFLG0IB0GLbeS3aVUJUhyky/ls9nL7i1FJmFm3MTM=
 github.com/whitaker-io/components/publishers/sqs v0.13.11 h1:B8FaVSrwt9n47K9jJayVGH4NKVLEUSx8oNriQnHGBZw=
@@ -321,6 +331,8 @@ github.com/whitaker-io/components/publishers/sqs v0.16.0 h1:GPp4duCjCCxO0llInwim
 github.com/whitaker-io/components/publishers/sqs v0.16.0/go.mod h1:2yielocdhZNXyFj/KwQNBl/y5Cgf0FRPl3vEGW5xsw8=
 github.com/whitaker-io/components/publishers/sqs v0.16.1 h1:g9iRYgrUzV3SMOVkbJwNx01VGMQ0ptYd1DXQWni0H4I=
 github.com/whitaker-io/components/publishers/sqs v0.16.1/go.mod h1:ZptEcdKsfv8S1hSph05BNmypte2rmDNH1PVkgAraJ60=
+github.com/whitaker-io/components/publishers/sqs v0.16.2 h1:t0K/rWEghr3b5xYAlHYUKva65Q/uEyvVjN/GTvFnoiA=
+github.com/whitaker-io/components/publishers/sqs v0.16.2/go.mod h1:DDOmBT0NOoxHMSmD3pqLF6tar0v4V3f0VD8C+rifcqU=
 github.com/whitaker-io/components/subscriptions/kafka v0.12.7 h1:vGnJxR2ezfMWCBzV3cbomH+c5GEgtXzECRA05xFFaiQ=
 github.com/whitaker-io/components/subscriptions/kafka v0.12.7/go.mod h1:oL9XC/iaG166OAutRbQTzqCQ2b+i34F86py1SZFvz3Y=
 github.com/whitaker-io/components/subscriptions/kafka v0.13.1 h1:6bNHxc62wopMI18ITh/kbQ9ybqkHN4lrEo4D9wq+fZM=
@@ -357,6 +369,8 @@ github.com/whitaker-io/components/subscriptions/kafka v0.16.0 h1:sEBvhoty3NLGC5D
 github.com/whitaker-io/components/subscriptions/kafka v0.16.0/go.mod h1:GdafoyNPkbdjw75jbhIT3oa8NffCDnNy/FwohrAXp8I=
 github.com/whitaker-io/components/subscriptions/kafka v0.16.1 h1:GXYuNWDc0RR160cFI58gvl9nwcnMy9VaKCLaydRetbk=
 github.com/whitaker-io/components/subscriptions/kafka v0.16.1/go.mod h1:g0CpakTZxy34Hc5dRq6ONxUDp9jJbkTrqFTzo4W/CG4=
+github.com/whitaker-io/components/subscriptions/kafka v0.16.2 h1:9OHPrY3fjQ3iyyfN1oSAN9YFZQoCYLGgbXA4cI1Bt2M=
+github.com/whitaker-io/components/subscriptions/kafka v0.16.2/go.mod h1:N7hf927s0g1Zmn+KOGOQJ5edwajcBlxN6mSC8GBsPtY=
 github.com/whitaker-io/components/subscriptions/pubsub v0.12.7 h1:0ziQ6GIFcndqxmMz5haEPJatzGxmJvjbBGLfFYhLENk=
 github.com/whitaker-io/components/subscriptions/pubsub v0.12.7/go.mod h1:AqvH97rjHV2C1NFDGhMsSzOsBJsB0bCXxqpuMN8AhEY=
 github.com/whitaker-io/components/subscriptions/pubsub v0.13.1 h1:odgNV8LLj66ZmN8ypZDVSGlZcYkcJPbGsEAjb5+wi2k=
@@ -393,6 +407,8 @@ github.com/whitaker-io/components/subscriptions/pubsub v0.16.0 h1:nGes8vuMmdrtHM
 github.com/whitaker-io/components/subscriptions/pubsub v0.16.0/go.mod h1:mc/q7oekrgRQWggqOv+f6+8v5slqqZ8aJrxRZBY+BbU=
 github.com/whitaker-io/components/subscriptions/pubsub v0.16.1 h1:0KoLsrMFC8cD+YTjVR+jac1AMaFLGUDbrkXdEaT78DQ=
 github.com/whitaker-io/components/subscriptions/pubsub v0.16.1/go.mod h1:gtNZipYtl+rrrpqej8wm5UrWoKOG1sdkm9FmKzlZtVc=
+github.com/whitaker-io/components/subscriptions/pubsub v0.16.2 h1:zf/wWpaP36rSSGAiUVlp1Rabx/m8Pz7WJ28n8I1Sni8=
+github.com/whitaker-io/components/subscriptions/pubsub v0.16.2/go.mod h1:tUpXHUm9eiwcOtGfro3GabS5LU6yWFvSqJwchaLKF/A=
 github.com/whitaker-io/components/subscriptions/sqs v0.12.7 h1:sujqYKrrcpZXy8z4mCsCAOOawwmu2hRKNB+L6LUvdCo=
 github.com/whitaker-io/components/subscriptions/sqs v0.12.7/go.mod h1:vd6Kh9PS2/u4ESyB1F5Q4tiKW8CibiZOeuSEFOUjKSk=
 github.com/whitaker-io/components/subscriptions/sqs v0.13.1 h1:4+qPKm8sr6MSkI0iRdb97mYNK5Wvxy/eqfIX6AolNuA=
@@ -429,6 +445,8 @@ github.com/whitaker-io/components/subscriptions/sqs v0.16.0 h1:zVDF/bG/SUDIA9pO4
 github.com/whitaker-io/components/subscriptions/sqs v0.16.0/go.mod h1:8VCPjmtW58hS+7K+2D2Sj/qaRx9wzmTUr2buC0HnSws=
 github.com/whitaker-io/components/subscriptions/sqs v0.16.1 h1:MkkTrNjpOQf4OE4llWW5kRNBB8abChOknFJOkgzZ0Z4=
 github.com/whitaker-io/components/subscriptions/sqs v0.16.1/go.mod h1:wCDYT7jsC8WQUMN6/2I9D4EIpFZeMuQgUSEjb4nINUc=
+github.com/whitaker-io/components/subscriptions/sqs v0.16.2 h1:lYGQzCHYYJXATBbw4GQnKf4YdJQ1KD3fMiTyr+bsKUg=
+github.com/whitaker-io/components/subscriptions/sqs v0.16.2/go.mod h1:JKO45xa1m73lTkfLMi7IBhvubL/kQPbmvHAjjwxhmeU=
 github.com/whitaker-io/components/utils v0.0.0-20210319232723-d9d96640c12f h1:9TN8CNYnuvoJ8SmnuA++SLCJeqOwDGfTM+mgikUATnI=
 github.com/whitaker-io/components/utils v0.0.0-20210319232723-d9d96640c12f/go.mod h1:pegs4WRO+5vMGziFFtBKJgCq8Fw8Q97obXjV0/HnBtM=
 github.com/whitaker-io/components/utils v0.13.8 h1:exrM+Bp1XdmE6Z8LQgnYK1c73PSjkpMiNMqpMCwaZEw=
@@ -463,6 +481,8 @@ github.com/whitaker-io/components/utils v0.16.0 h1:+vniZ4tIQtI5OXz+pZzuTl7qjAm6W
 github.com/whitaker-io/components/utils v0.16.0/go.mod h1:pegs4WRO+5vMGziFFtBKJgCq8Fw8Q97obXjV0/HnBtM=
 github.com/whitaker-io/components/utils v0.16.1 h1:m2IRV5aFRhuN9VSGnJM/ursofu1lzD43ZMLuLs70Gx0=
 github.com/whitaker-io/components/utils v0.16.1/go.mod h1:pegs4WRO+5vMGziFFtBKJgCq8Fw8Q97obXjV0/HnBtM=
+github.com/whitaker-io/components/utils v0.16.2 h1:coMGOscR7tMEp291q7c+MO72E/KbVCvwgYh/ak0fw9U=
+github.com/whitaker-io/components/utils v0.16.2/go.mod h1:pegs4WRO+5vMGziFFtBKJgCq8Fw8Q97obXjV0/HnBtM=
 github.com/whitaker-io/data v0.1.2 h1:AmjVjQu0JMjmTxMgQc+jb+Hm9Nbf7PmXytB4XbWvBDY=
 github.com/whitaker-io/data v0.1.2/go.mod h1:a7+TjyUrdKkpbLLGH9FwflI/LU93x5FyQ22mWvoKXQk=
 github.com/whitaker-io/machine v0.12.7 h1:AOzbozve5zTjXq96bi7wbyR3JhNVBCfD5D7hP0NwSYo=
@@ -505,6 +525,8 @@ github.com/whitaker-io/machine v0.16.0 h1:Kx+mv5rCvOvm8P11wjBfLE4bD5Cc4/mvNfEPMC
 github.com/whitaker-io/machine v0.16.0/go.mod h1:KYvFFiPY+fyTyghcaPqwGauoZ4CJY45PFar30YLAZlw=
 github.com/whitaker-io/machine v0.16.1 h1:S6+GnmlsGnhdT1prlhX/OpSS+To+xDgow1oGH4/Du5M=
 github.com/whitaker-io/machine v0.16.1/go.mod h1:ztFtI8WedLve/Drfwe2tpDsmCV/jLrdB8jgp0gHwWNs=
+github.com/whitaker-io/machine v0.16.2 h1:C8ksCKtwKrF+LmU+HEO/YaMqUjnMco9i+29JD8zxxPA=
+github.com/whitaker-io/machine v0.16.2/go.mod h1:cQe0SKNheEu5LdPYBNOOs/iA6RZIKQqnNKToiuYs3LM=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c/go.mod h1:lB8K/P019DLNhemzwFU4jHLhdvlE6uDZjXFejJXr49I=
 github.com/xdg/stringprep v1.0.0/go.mod h1:Jhud4/sHMO4oL310DaZAKk9ZaJ08SJfe+sJh0HrGL1Y=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
