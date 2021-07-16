@@ -37,6 +37,8 @@ github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.2.0 h1:qJYtXnJRWmpe7m/3XlyhrsLrEURqHRM2kxzoxXqyUDs=
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/klauspost/compress v1.8.2/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0guNDohfE1A=
 github.com/klauspost/compress v1.9.8/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0guNDohfE1A=
 github.com/klauspost/compress v1.10.4/go.mod h1:aoV0uJVorq1K+umq18yTdKaF57EivdYsUV+/s2qKfXs=
@@ -200,6 +202,8 @@ github.com/whitaker-io/machine v0.16.1 h1:S6+GnmlsGnhdT1prlhX/OpSS+To+xDgow1oGH4
 github.com/whitaker-io/machine v0.16.1/go.mod h1:ztFtI8WedLve/Drfwe2tpDsmCV/jLrdB8jgp0gHwWNs=
 github.com/whitaker-io/machine v0.16.2 h1:C8ksCKtwKrF+LmU+HEO/YaMqUjnMco9i+29JD8zxxPA=
 github.com/whitaker-io/machine v0.16.2/go.mod h1:cQe0SKNheEu5LdPYBNOOs/iA6RZIKQqnNKToiuYs3LM=
+github.com/whitaker-io/machine v0.16.3 h1:MRLUVDFocmQgzES5E7/5sVJNsZxxjPO8LB106brIF48=
+github.com/whitaker-io/machine v0.16.3/go.mod h1:VRoHoQVfAsJ9VA8WGpEI/i5d76OshewHi3tAdefK8GE=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c/go.mod h1:lB8K/P019DLNhemzwFU4jHLhdvlE6uDZjXFejJXr49I=
 github.com/xdg/stringprep v1.0.0/go.mod h1:Jhud4/sHMO4oL310DaZAKk9ZaJ08SJfe+sJh0HrGL1Y=
 go.opentelemetry.io/otel v0.13.0 h1:2isEnyzjjJZq6r2EKMsFj4TxiQiexsM04AVhwbR/oBA=
