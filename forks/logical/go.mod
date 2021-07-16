@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
-	github.com/whitaker-io/machine v0.15.0
+	github.com/whitaker-io/machine v0.16.0
 )

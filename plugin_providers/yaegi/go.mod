@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/traefik/yaegi v0.9.14
-	github.com/whitaker-io/machine v0.15.0
+	github.com/whitaker-io/machine v0.16.0
 )
