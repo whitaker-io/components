@@ -196,6 +196,8 @@ github.com/whitaker-io/machine v0.16.2 h1:C8ksCKtwKrF+LmU+HEO/YaMqUjnMco9i+29JD8
 github.com/whitaker-io/machine v0.16.2/go.mod h1:cQe0SKNheEu5LdPYBNOOs/iA6RZIKQqnNKToiuYs3LM=
 github.com/whitaker-io/machine v0.16.3 h1:MRLUVDFocmQgzES5E7/5sVJNsZxxjPO8LB106brIF48=
 github.com/whitaker-io/machine v0.16.3/go.mod h1:VRoHoQVfAsJ9VA8WGpEI/i5d76OshewHi3tAdefK8GE=
+github.com/whitaker-io/machine v0.16.4 h1:4vIAvbLG1+IBAwQo9WCPuezLQZ8ivr0CMVfJnb+Ci8g=
+github.com/whitaker-io/machine v0.16.4/go.mod h1:VRoHoQVfAsJ9VA8WGpEI/i5d76OshewHi3tAdefK8GE=
 go.opentelemetry.io/otel v0.13.0 h1:2isEnyzjjJZq6r2EKMsFj4TxiQiexsM04AVhwbR/oBA=
 go.opentelemetry.io/otel v0.13.0/go.mod h1:dlSNewoRYikTkotEnxdmuBHgzT+k/idJSfDv/FxEnOY=
 go.opentelemetry.io/otel v0.18.0 h1:d5Of7+Zw4ANFOJB+TIn2K3QWsgS2Ht7OU9DqZHI6qu8=
